@@ -43,7 +43,3 @@ In this quiz game, questions cover a wide range of topics to provide a comprehen
 
 - Yash Tak (91800527051)
 - Shivam Kumar (91800527083)
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
